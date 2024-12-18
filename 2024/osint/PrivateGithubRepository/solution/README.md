@@ -1,0 +1,5 @@
+-   Find bob's gist - https://gist.github.com/bob-193/f0fe97c23c507bc2c29a087e1d7682d0
+-   There is attached Base64 encoded zip with ssh private key without passphrase
+-   Using ssh -T git@github.com (https://docs.github.com/en/authentication/connecting-to-github-with-ssh/testing-your-ssh-connection) you can get Tiffany's username nitrofany
+-   nitrofany has private repo 1337up which had .gitmodules file which pointed to https://github.com/nitrofany/01189998819991197253
+-   nitrofany/01189998819991197253 contains flag.md with actual flag

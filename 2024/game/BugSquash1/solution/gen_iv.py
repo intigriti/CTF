@@ -1,0 +1,12 @@
+original_iv = [
+    0x4B, 0x79, 0x88, 0x97, 0x4F, 0x7C, 0x2E, 0x3F,
+    0xA2, 0x4D, 0x48, 0xDD, 0x4F, 0x71, 0x04, 0x43
+]
+
+key = 0x42 # XOR key
+
+# Encrypt the IV
+encrypted_iv = [byte ^ key for byte in original_iv]
+
+# Print the encrypted IV in a format suitable for C#
+print("Encrypted IV: ", ["0x{:02X}".format(b) for b in encrypted_iv])

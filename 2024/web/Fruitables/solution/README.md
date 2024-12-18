@@ -1,0 +1,9 @@
+- fuzz files and directories (or just smart guess) to find /account.php
+- register account and login but the dashboard is uselsss
+- login has SQLi, use it to recover admin creds
+- log in as admin and find file upload functionality
+- need to upload an image containing PHP shell
+    - it must have .png or .jpg in the filename
+    - it must have content type image/png or image/jpg
+    - it must have magic signature of an image
+- gain RCE and print flag

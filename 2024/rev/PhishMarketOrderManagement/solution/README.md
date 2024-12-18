@@ -1,0 +1,2 @@
+-   Reverse app and get password: `N3v3RG0nn@6u3$$!` (https://gchq.github.io/CyberChef/#recipe=From_Hex('Auto')XOR(%7B'option':'Hex','string':'494e5449475249544931333337757023'%7D,'Standard',false)&input=MDc3ZDIyN2ExNTE1NzkzYTI3NzEwNTQ2MDQ1MTU0MDI&oeol=FF)
+-   Select "product" option then use SQLi union, e.g. `' UNION SELECT flag,1 FROM admin-- -`
