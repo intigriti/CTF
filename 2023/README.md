@@ -7,10 +7,8 @@ Write-ups are available on our [GitBook](https://bugology.intigriti.io/intigriti
 -   [Discord](https://github.com/intigriti/CTF/tree/main/2023/warmup/Discord)
 -   [Twitter](https://github.com/intigriti/CTF/tree/main/2023/warmup/Twitter)
 -   [Reddit](https://github.com/intigriti/CTF/tree/main/2023/warmup/Reddit)
--   [Try Hack Me](https://github.com/intigriti/CTF/tree/main/2023/warmup/TryHackMe)
 -   [Encoding](https://github.com/intigriti/CTF/tree/main/2023/warmup/Encoding)
--   [Over the Wire (part 1)](https://github.com/intigriti/CTF/tree/main/2023/warmup/OverTheWire1)
--   [Over the Wire (part 2)](https://github.com/intigriti/CTF/tree/main/2023/warmup/OverTheWire2)
+-   [Over the Wire](https://github.com/intigriti/CTF/tree/main/2023/warmup/OverTheWire)
 -   [Flag Extraction](https://github.com/intigriti/CTF/tree/main/2023/warmup/FlagExtraction)
 
 ## Web
@@ -22,7 +20,6 @@ Write-ups are available on our [GitBook](https://bugology.intigriti.io/intigriti
 -   [OWASP](https://github.com/intigriti/CTF/tree/main/2023/web/OWASP)
 -   [Bug Bank](https://github.com/intigriti/CTF/tree/main/2023/web/BugBank)
 -   [My Music](https://github.com/intigriti/CTF/tree/main/2023/web/MyMusic)
--   [Sealed Note](https://github.com/intigriti/CTF/tree/main/2023/web/SealedNote)
 -   [Smarty Pants](https://github.com/intigriti/CTF/tree/main/2023/web/SmartyPants)
 
 ## Pwn

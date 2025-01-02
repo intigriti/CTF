@@ -1,0 +1,2 @@
+- extract each archice (5-6 total)
+- find GIF image, can use strings or grep to get flag
