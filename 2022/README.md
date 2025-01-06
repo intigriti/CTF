@@ -22,6 +22,7 @@ Write-ups are available on our [GitBook](https://bugology.intigriti.io/intigriti
 -   [HackerWriter](https://github.com/intigriti/CTF/tree/main/2022/web/HackerWriter)
 -   [Quiz](https://github.com/intigriti/CTF/tree/main/2022/web/Quiz)
 -   [NetworkMaster](https://github.com/intigriti/CTF/tree/main/2022/web/NetworkMaster)
+-   [OnePayload](https://github.com/intigriti/CTF/tree/main/2022/web/OnePayload)
 
 ## Reversing
 
